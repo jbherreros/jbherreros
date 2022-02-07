@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, it's Juan Carlos 👋</h3>
+<h1 align="center">Hi there, it's Juan Carlos 👋</h3>
 
 <h3 align="center"> Welcome to my GitHub profile. Feel free to have a look at my repositories to see what I can do. </h6>
 
