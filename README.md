@@ -5,7 +5,6 @@ Welcome to my GitHub profile. Feel free to have a look at my repositories to see
 #### Contact:
 📬 jbherreros@gmail.com
 
-![img](email.png)
-![img](linkedin.png)
-img[alt=img] { width: 200px; }
-Here is an inline ![smiley](smiley.png){:height="36px" width="36px"}.
+![img](email.png) jbherreros@gmail.com
+![img](linkedin.png) https://www.linkedin.com/in/jbherreros/
+
