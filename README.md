@@ -2,5 +2,5 @@
 
 Welcome to my GitHub profile. Feel free to have a look at my repositories to see what I can do. 
 
-#### Contact:
+Reach me out at:
 ##### :mailbox_with_mail: jbherreros@gmail.com
