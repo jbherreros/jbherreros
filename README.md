@@ -2,9 +2,8 @@
 
 Welcome to my GitHub profile. Feel free to have a look at my repositories to see what I can do. 
 
-<img src="email.png" width="100" height="100">
 
 #### Contact:
-![img](email.png) jbherreros@gmail.com
-![img](linkedin.png) https://www.linkedin.com/in/jbherreros/
+<img src="email.png" width="100" height="100"> jbherreros@gmail.com
+<img src="linkedin.png" width="100" height="100"> <a href="https://www.linkedin.com/in/jbherreros/">@jbherreros</a>
 
