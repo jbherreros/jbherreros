@@ -8,3 +8,4 @@ Welcome to my GitHub profile. Feel free to have a look at my repositories to see
 ![img](email.png)
 ![img](linkedin.png)
 img[alt=img] { width: 200px; }
+Here is an inline ![smiley](smiley.png){:height="36px" width="36px"}.
