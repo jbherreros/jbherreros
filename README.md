@@ -4,6 +4,6 @@ Welcome to my GitHub profile. Feel free to have a look at my repositories to see
 
 
 #### Contact:
-<img src="email.png" width="17" height="17"> &nbsp;<h3>jbherreros@gmail.com</h3>&nbsp;
+<h3><img src="email.png" width="17" height="17"> &nbsp;jbherreros@gmail.com&nbsp;</h3>
 <img src="linkedin.png" width="17" height="17"> <a href="https://www.linkedin.com/in/jbherreros/"> @jbherreros</a>
 </p>
